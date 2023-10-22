@@ -7,7 +7,7 @@ A powerful mod that allows you to modify the ingame rounds instantly while you c
 
 In addition, you can set end-round hints by editing the round file, or set special rules to make the game more interesting.
 
-THERE ARE A EDITOR CALLED "BTD6 DIY Rounds Editor", it provides a GUI window to make your edit super easily, but the current language is chinese only so you may not understand effects of every button.
+THERE ARE AN EDITOR CALLED "BTD6 DIY Rounds Editor", it provides a GUI window to make your edit super easily, but the current language is chinese only so you may not understand effects of every button.
 
 Functions of EDITOR:
 1. Edit every round in visual way.
