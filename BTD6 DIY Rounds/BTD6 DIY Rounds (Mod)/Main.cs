@@ -680,7 +680,6 @@ namespace DIY_Rounds
                         if (tower != null && tower.towerModel != null
                             && tower.towerModel.name.Contains("EngineerMonkey"))
                         {
-                            Console.WriteLine(tower.towerModel.name);
                             expect_mul = pa.attrs["cash multiplier[pop]"] * cash_mul(round);
                             actual_mul = cash_mul_natural(round);
                             to_add_mul = (expect_mul / actual_mul) - 1;
