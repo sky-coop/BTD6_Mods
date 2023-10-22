@@ -229,7 +229,7 @@ namespace DIY_Rounds
             }
         }
 
-        private static readonly ModSettingBool custom = new(false)
+        private static readonly ModSettingBool custom = new(true)
         {
             displayName = "使用自定义回合",
             button = true,
