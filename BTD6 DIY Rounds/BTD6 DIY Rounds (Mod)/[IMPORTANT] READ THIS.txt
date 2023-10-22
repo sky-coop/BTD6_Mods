@@ -1,0 +1,6 @@
+This mod needs a rounds.json file in XX\BloonsTD6\Mods\DIY Rounds\ folder to work.
+If you want to use the mod ASAP, You can copy the default [DIY Rounds] folder (in the source code folder) in to that position.
+Or use EDITOR to create a rounds.json file, then manually put the generated [DIY Rounds] folder into mods folder.
+
+But it's highly recommanded to let your EDITOR to find your game path, then you could save file to game folder with ease. 
+In addition, you can choose to auto save your change to game once you have done some operation, the game will load the new file ASAP.

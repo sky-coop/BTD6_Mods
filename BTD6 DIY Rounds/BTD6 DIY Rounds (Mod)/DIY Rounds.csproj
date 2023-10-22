@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>custom_rounds</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>custom_rounds</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+        <BaseOutputPath></BaseOutputPath>
+        <ApplicationIcon />
+        <OutputType>Library</OutputType>
+        <StartupObject />
+    </PropertyGroup>
+
+    <Import Project="..\btd6.targets" />
+</Project>

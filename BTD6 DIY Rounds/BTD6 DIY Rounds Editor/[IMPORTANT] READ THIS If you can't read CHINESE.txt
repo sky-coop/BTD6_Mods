@@ -1,0 +1,8 @@
+This GUI program currently uses CHINESE to explain how it works. Because adding a new language will take more effort and I think I can't do it well.
+If you can't read CHINESE, you can try every button and see what effect it has. As long as you don't save your change to overwrite your round file, every operation is safe.
+The word 保存 meaning save, 自动保存 meaning auto save, so avoid them when you are doing experiment.
+
+You can Left Click on every button, and some button have Right Click effect, If a description says "右击" using red color text, that means this button have Right Click effect.
+You can try mouse wheel on every area, it's convenient when you need to switch page.
+
+If you want a ENGLISH version or guide for this EDITOR, please contact me on GitHub.
