@@ -3,7 +3,7 @@ BTD6 Mods created by skycoop.
 
 Currently contains:
 # 1. BTD6 DIY Rounds
-A powerful mod that allows you to modify the ingame rounds instantly while you changed rounds.json file. Currently version is 0.4.
+A powerful mod that allows you to modify the ingame rounds instantly while you changed rounds.json file. Current version is 0.4.
 
 In addition, you can set end-round hints by editing the round file, or set special rules to make the game more interesting.
 
