@@ -1,0 +1,31 @@
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\BTD6 DIY Rounds.exe
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\BTD6 DIY Rounds.deps.json
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\BTD6 DIY Rounds.runtimeconfig.json
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\BTD6 DIY Rounds.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\BTD6 DIY Rounds.pdb
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.csproj.AssemblyReference.cache
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\App.g.cs
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds_Content.g.cs
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds_MarkupCompile.cache
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds_MarkupCompile.lref
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.g.resources
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.AssemblyInfoInputs.cache
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.AssemblyInfo.cs
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.csproj.CoreCompileInputs.cache
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.csproj.CopyComplete
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\refint\BTD6 DIY Rounds.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.pdb
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\BTD6 DIY Rounds.genruntimeconfig.cache
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\obj\Release\net6.0-windows\ref\BTD6 DIY Rounds.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\34707\source\repos\BTD6 Custom Round\BTD6 Custom Round\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll

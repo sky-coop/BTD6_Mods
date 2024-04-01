@@ -1,0 +1,67 @@
+﻿<Window x:Name="main_window" x:Class="BTD6_DIY_Rounds.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BTD6_DIY_Rounds"
+        mc:Ignorable="d"
+        Title="BTD6 DIY Rounds Editor (Author: skycoop) v0.4" Height="450" Width="800" Loaded="Window_Loaded" SizeChanged="sizechanged">
+    <Grid x:Name="visual">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF006464"/>
+                <GradientStop Color="#FF00A0A0" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle x:Name="back_react" Fill="#66FF0000" />
+        <Rectangle x:Name="invalid_react" Fill="#66000000" />
+        <Grid x:Name="main_grid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="background_grid" Grid.ColumnSpan="2" >
+                <TextBlock x:Name="wrap_off_text" HorizontalAlignment="Center" VerticalAlignment="Center" Text="传 送 入 口 已 关 闭" Foreground="#33FFFFFF" FontSize="40" RenderTransformOrigin="0.5,0.5" FontFamily="SimHei" >
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="20"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </Grid>
+            <Grid x:Name="round_grid" Background="#4C000000">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="380"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid x:Name="round_select_grid"/>
+            </Grid>
+            <Grid x:Name="right_grid" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid x:Name="view_grid" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock x:Name="test" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Text="" FontSize="20" Foreground="White"/>
+                    <Rectangle x:Name="rect" Fill="#00000000" Width="0" Height="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+                    <Grid x:Name="bloons_grid" Grid.Row="1"/>
+                </Grid>
+                <Grid x:Name="control_grid" Grid.Row="1" Background="#4C006400" />
+                <Grid x:Name="ext_grid" Grid.Row="0" Background="#B2000000" />
+            </Grid>
+            <Grid x:Name="load_grid" Grid.ColumnSpan="2">
+            </Grid>
+            <Grid x:Name="inf_grid" Grid.ColumnSpan="2">
+                <StackPanel x:Name="hint" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#B2000000" IsHitTestVisible="False"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
